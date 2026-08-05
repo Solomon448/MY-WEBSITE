@@ -49,7 +49,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose, on
 
         {/* Showcase Image */}
         <div className="relative aspect-[16/9] rounded-2xl overflow-hidden border border-white/10 my-6 bg-zinc-900">
-          <img src={project.desktopImage} alt={project.title} className="w-full h-full object-cover" />
+          <img src={project.desktopImage} alt={project.title} className="w-full h-full object-cover object-top" />
         </div>
 
         {/* Story Section */}

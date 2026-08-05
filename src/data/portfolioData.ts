@@ -9,8 +9,8 @@ export const PROJECTS: Project[] = [
     category: 'SHOPIFY • ECOMMERCE',
     categoryTag: 'SHOPIFY',
     description: 'A modern fashion shopping experience designed to improve product discovery and conversions.',
-    desktopImage: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80',
-    mobileImage: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80',
+    desktopImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785854042/F_screen_jp8t3t.png',
+    mobileImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785854041/new_3_screen_r2xsfn.png',
     metrics: [
       { label: 'Conversion Increase', value: '+142%' },
       { label: 'Avg Order Value', value: '+$38' },
@@ -35,8 +35,8 @@ export const PROJECTS: Project[] = [
     category: 'SHOPIFY • BEAUTY',
     categoryTag: 'SHOPIFY',
     description: 'A premium skincare ecommerce experience focused on trust, product education, and repeat purchases.',
-    desktopImage: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=80',
-    mobileImage: 'https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80',
+    desktopImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785854043/bon_skincare_ea7fns.png',
+    mobileImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785937270/lune_lj2y0y.png',
     metrics: [
       { label: 'Subscription Rate', value: '+210%' },
       { label: 'Mobile Sales Share', value: '78%' },
@@ -87,8 +87,8 @@ export const PROJECTS: Project[] = [
     category: 'WORDPRESS • FITNESS',
     categoryTag: 'WORDPRESS',
     description: 'A high-energy website with membership information, class schedules, and lead-generation features.',
-    desktopImage: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=80',
-    mobileImage: 'https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=600&q=80',
+    desktopImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785854050/chat_gpt.jpg_1_badfxb.jpg',
+    mobileImage: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785854050/chat_gpt.jpg_1_badfxb.jpg',
     metrics: [
       { label: 'Free Pass Claims', value: '450+/mo' },
       { label: 'Class Booking Rate', value: '+88%' },
