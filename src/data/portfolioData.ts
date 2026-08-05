@@ -207,7 +207,7 @@ export const TESTIMONIALS: Testimonial[] = [
     clientName: 'Marcus Vance',
     clientRole: 'Founder & CEO',
     company: 'AURA Apparel',
-    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80',
+    avatar: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785967835/profile_2_f7xluw.png',
     rating: 5,
     quote: 'Solomon transformed our website into a professional and easy-to-use experience. The new design improved how we present our services and made it easier for customers to contact us. Our conversion rate jumped over 140% in month one!',
     metricHighlight: '+142% Sales Conversion'
@@ -217,7 +217,7 @@ export const TESTIMONIALS: Testimonial[] = [
     clientName: 'Elena Rostova',
     clientRole: 'Marketing Director',
     company: 'LUMI Botanicals',
-    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80',
+    avatar: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785967836/prolife_zu0cap.png',
     rating: 5,
     quote: 'Working with Solomon was the best decision for our skincare launch. He created an intuitive skincare finder quiz that increased our average order value instantly. Fast, communicative, and truly a master at Shopify.',
     metricHighlight: '+210% Subscriptions'
@@ -227,7 +227,7 @@ export const TESTIMONIALS: Testimonial[] = [
     clientName: 'Julian Thorne',
     clientRole: 'Principal Architect',
     company: 'Atelier Maison Studio',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80',
+    avatar: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785967835/profile_rev_u9epms.jpg',
     rating: 5,
     quote: 'Our previous WordPress site felt cluttered and generic. Solomon delivered a masterpiece—an ultra-clean, magazine-style layout that captures our luxury interior projects. Enquiries have been non-stop since launch.',
     metricHighlight: '4.8x Lead Growth'
@@ -237,7 +237,7 @@ export const TESTIMONIALS: Testimonial[] = [
     clientName: 'David Kincaid',
     clientRole: 'Head of Operations',
     company: 'APEX Performance',
-    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80',
+    avatar: 'https://res.cloudinary.com/akfcvfrw/image/upload/v1785967837/profile_3_ckon9a.png',
     rating: 5,
     quote: 'Solomon understands the psychology behind conversion design. He rebuilt our fitness center site in 2 weeks, and our trial pass signups quadrupled almost overnight. I cannot recommend him enough!',
     metricHighlight: '450+ Monthly Leads'
