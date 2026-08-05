@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100%" height="100%">
+  <rect width="256" height="256" rx="56" fill="#043a35" />
+  <g transform="translate(8, 0)">
+    <!-- Interlocking S (Solid White) -->
+    <path d="M115 72 C80 72, 60 88, 60 112 C60 134, 80 144, 108 150 C128 154, 140 159, 140 170 C140 182, 124 190, 102 190 C80 190, 62 180, 52 168 L36 188 C52 206, 78 218, 106 218 C150 218, 172 198, 172 168 C172 142, 150 132, 118 126 C100 122, 90 117, 90 108 C90 99, 102 94, 118 94 C136 94, 152 102, 162 112 L178 90 C162 78, 142 72, 115 72 Z" fill="#ffffff" />
+    
+    <!-- Overlapping D (Outlined Mint/Sage Green) -->
+    <path d="M115 95 C145 95, 185 108, 185 142 C185 176, 145 188, 115 188 C105 188, 102 180, 102 172 C102 164, 105 158, 115 158 C138 158, 158 152, 158 142 C158 132, 138 125, 115 125 C105 125, 102 118, 102 110 C102 102, 105 95, 115 95 Z" fill="none" stroke="#a4ddc7" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <!-- Top Right White Dot -->
+    <circle cx="198" cy="68" r="13" fill="#ffffff" />
+  </g>
+</svg>
